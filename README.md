@@ -1,5 +1,7 @@
 # Deep pose alignment
 
+<b> *** Update 3/19/2021 - my paper was published in IEEE Big Data 2020 https://ieeexplore.ieee.org/abstract/document/9378321 </b>
+
 ## Summary
 This deep learning architecture aligns human poses to be used in an exercise/rehabilitation assistant system. 
 
