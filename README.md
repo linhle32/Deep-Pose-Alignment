@@ -30,7 +30,7 @@ This model solves the task of aligning the user’s pose with the correct pose s
 - Matplotlib
 - Realtime Mutli-Person Pose Estimation for pose extraction. Original repository is at https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation
 
-## Files
+## Uploaded files
 
 - <b>utilities.py</b>: utility functions for randomizing training poses and visualizing/overlaying poses
 - <b>PoseAlignModel.py</b>: class definition for the deep pose alignment model.
